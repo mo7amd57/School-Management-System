@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1699911806 source:d:\my embeded\school_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+	"main.h"
+
+1699559721 d:\my embeded\school_system\main.h
+	"Include/tc.h"
+	"School/School.h"
+	"Fram/fram.h"
+	"Sound/sound.h"
+
+1698397768 d:\my embeded\school_system\include\tc.h
+	<stdio.h>
+
+1699910056 d:\my embeded\school_system\school\school.h
+	"../Include/tc.h"
+
+1699620613 d:\my embeded\school_system\fram\fram.h
+	"../Include/tc.h"
+
+1699875432 source:d:\my embeded\school_system\fram\fram.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+	"fram.h"
+
+1699641926 source:d:\my embeded\school_system\school\school.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+	<string.h>
+	<ctype.h>
+	"School.h"
+	"../Sound/sound.h"
+
+1699642539 d:\my embeded\school_system\sound\sound.h
+
+1699874791 source:d:\my embeded\school_system\sound\sound.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1699875432 source:d:\school_system\fram\fram.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+	"fram.h"
+
+1699620613 d:\school_system\fram\fram.h
+	"../Include/tc.h"
+
+1698397768 d:\school_system\include\tc.h
+	<stdio.h>
+
+1699971430 source:d:\school_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+	"main.h"
+
+1699559721 d:\school_system\main.h
+	"Include/tc.h"
+	"School/School.h"
+	"Fram/fram.h"
+	"Sound/sound.h"
+
+1699910056 d:\school_system\school\school.h
+	"../Include/tc.h"
+
+1699642539 d:\school_system\sound\sound.h
+
+1699919626 source:d:\school_system\school\school.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+	<string.h>
+	<ctype.h>
+	"School.h"
+	"../Sound/sound.h"
+
+1699874791 source:d:\school_system\sound\sound.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

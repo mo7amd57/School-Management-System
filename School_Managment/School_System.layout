@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="Sound\sound.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="348" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="config.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="144" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="School\School.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="304586" topLine="11857" />
+		</Cursor>
+		<Folding>
+			<Collapse line="26" />
+			<Collapse line="184" />
+			<Collapse line="196" />
+			<Collapse line="209" />
+			<Collapse line="372" />
+			<Collapse line="742" />
+			<Collapse line="821" />
+			<Collapse line="898" />
+			<Collapse line="913" />
+			<Collapse line="956" />
+			<Collapse line="1161" />
+			<Collapse line="1411" />
+			<Collapse line="9686" />
+			<Collapse line="10453" />
+			<Collapse line="10588" />
+			<Collapse line="10740" />
+			<Collapse line="11114" />
+			<Collapse line="11668" />
+		</Folding>
+	</File>
+	<File name="Fram\fram.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17666" topLine="162" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="22" />
+			<Collapse line="39" />
+			<Collapse line="44" />
+			<Collapse line="49" />
+			<Collapse line="56" />
+			<Collapse line="93" />
+			<Collapse line="141" />
+			<Collapse line="287" />
+			<Collapse line="312" />
+			<Collapse line="370" />
+			<Collapse line="397" />
+			<Collapse line="417" />
+			<Collapse line="458" />
+			<Collapse line="1279" />
+			<Collapse line="1295" />
+		</Folding>
+	</File>
+	<File name="Fram\fram.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1119" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="103" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="School\School.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="713" topLine="248" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="920" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="Sound\sound.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="152" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
